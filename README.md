@@ -16,7 +16,7 @@ This release contains up-to-date feature and functions for mid release.
 - click file --> export --> workspace exports as txt file
 - browse and select the project folder from local space and click finish
 - run the main class file as java application
-- Drag and right click to select multiple items, unfortunately this function can be used only once due to some bugs, we are still fixing
+- Drag and right click to select multiple items and delete them
 
 **You may encounter some errors because of missing external jar library file or gradle testFx dependencies**
 **For missing library file error**
