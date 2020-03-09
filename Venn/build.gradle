@@ -11,7 +11,7 @@
 plugins {
  
  id "org.openjfx.javafxplugin" version "0.0.8"
- id 'java'
+ id 'java-11'
  id 'java-library'
  	}
 // In this section you declare where to find the dependencies of your project
