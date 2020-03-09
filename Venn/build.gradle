@@ -33,3 +33,15 @@ dependencies {
     // Use JUnit test framework
     testImplementation 'junit:junit:4.12'
 }
+javafx{
+ version= "13"
+ modules = ('javafx.controls','javafx.xml')
+}
+run{
+ if(javafx.platform.classifier == 'win'){
+ systemProperty "java.library.path","C:\tmp"
+ }
+}
+
+mainClassName='org.openjfx.Main'
+
