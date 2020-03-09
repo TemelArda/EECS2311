@@ -35,7 +35,7 @@ dependencies {
 }
 javafx{
  version= "13"
- modules = ('javafx.controls','javafx.xml')
+ modules = ['javafx.controls','javafx.xml']
 }
 run{
  if(javafx.platform.classifier == 'win'){
