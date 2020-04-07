@@ -2,7 +2,7 @@
 
 # VennDiagramV2.0
 
-The main usage of this application is to organize and visualize data. The software aims to make categorization of information as easy as possible for the user. How it achieves this is by having a user friendly interface, easily import and export information, being able to move entities around the scene seamlessly, and create delete and edit entries with simple instructions. To increase the interaction between user and the system we introduced a new feature call TEST MODE. Throught this event user can submit their ansswer the system will give assesment result. So more functions and more fun.
+The main usage of this application is to organize and visualize data. The software aims to make categorization of information as easy as possible for the user. How it achieves this is by having a user friendly interface, easily import and export information, being able to move entities around the scene seamlessly, and create delete and edit entries with simple instructions. To increase the interaction between user and the system we introduced a new feature call TEST MODE. Throught this event user can submit their ansswer the system will give assesment result. And also this release has Unod/Redo feature.So more functions and more fun.
 
 This release contains up-to-date feature and functions for final release.
 
